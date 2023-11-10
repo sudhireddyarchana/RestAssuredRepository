@@ -1,0 +1,13 @@
+{ 
+   "data1":"OrgTraq", 
+   "data2": ["archana", 10, true, 45.89], 
+   "data3": { "name":"bubby", "age":24 }, 
+   "data4":[ 
+   				{ "name":"bubbyarchana", "weight":52 }, 
+                { "name":"Krishika", "weight":5, "height": 4 } 
+             ], 
+    "data5": { 
+               "eng": { "official": "Malaysia", "common": null }, 
+               "msa": { "cars":["Ford", "BMW", "Fiat"], "ITR":true } 
+            } 
+}

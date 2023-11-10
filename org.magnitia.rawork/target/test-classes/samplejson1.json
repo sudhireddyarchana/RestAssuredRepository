@@ -1,0 +1,8 @@
+{
+	"name":"kalam",
+	"age":94,
+	"height":5.8,
+	"location":["delhi","rameswaram","hyderabad","bengaluru"],
+	"married":false,
+	"address":[11,"mosque street","Dhanushkoiti road","rameswaram",600042]
+}

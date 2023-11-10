@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="iteration1">
+    <parameter name="city" value="pune"/>
+    <classes>
+      <class name="apitests.Test27"/>
+    </classes>
+  </test> 
+  <test name="iteration2">
+    <classes>
+      <class name="apitests.Test27"/>
+    </classes>
+  </test> 
+</suite> 
